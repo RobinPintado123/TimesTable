@@ -1,0 +1,30 @@
+A                       is a suite of programs for constructing and maintaining the database and for offering ad hoc query facilities to multiple users and applications.
+database management system (DBMS)
+In a            columns are referred to as attributes.
+relational database
+A     is the result of a query that returns selected rows and columns from one or more tables.
+view
+          is a standardized language that can be used to define schema, manipulate, and query data in a relational database.
+Structured query language
+With         administration the owner (creator) of a table may grant and revoke access rights to the table.
+ownership-based
+In a          administration a small number of privileged users may grant and revoke access rights.
+centralized
+In addition to granting and revoking access rights to a table, in a         administration the owner of the table may grant and revoke authorization rights to other users, allowing them to grant and revoke access rights to the table.
+decentralized
+In a discretionary access control environment database users are classified into three broad categories: administrator, end user other than application owner, and           .
+application owner
+The information transfer path by which unauthorized data is obtained is referred to as an            channel.
+inference
+The        attack typically works by prematurely terminating a text string and appending a new command.
+SQLi
+The           form of attack injects code in one or more conditional statements so they always evaluate to true.
+tautology
+A         language provides a uniform interface to the database for users and applications.
+query
+        , out-of-band, and inferential are the three main categories of SQLi attack types.
+In-band
+A            is an enterprise facility that houses a large number of servers, storage devices, and network switches and equipment.
+data center
+The Telecommunications Industry Association standard            specifies the minimum requirements for telecommunications infrastructure of data centers.
+TIA-492
