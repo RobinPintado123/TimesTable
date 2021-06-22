@@ -1,0 +1,141 @@
+A(n) __________ is a structured collection of data stored for use by one or more applications.
+database
+attribute
+database
+tuple
+inference
+The basic building block of a __________ is a table of data, consisting of rows and columns, similar to a spreadsheet.
+relational database
+relational database
+query set
+DBMS
+perturbation
+In relational database parlance, the basic building block is a __________, which is a flat table.
+relation
+attribute
+tuple 
+primary key
+relation
+In a relational database rows are referred to as _________. 
+tuples
+attributes
+views
+relations
+tuples
+A _________ is defined to be a portion of a row used to uniquely identify a row in a table.
+primary key
+foreign key	
+query 
+primary key	
+data perturbation
+A _________ is a virtual table.
+view
+tuple	
+query
+view	
+DBMS
+A(n) __________ is a user who has administrative responsibility for part or all of the database.
+administrator	
+administrator	
+database relations manager
+application owner	
+end user other than application owner
+An end user who operates on database objects via a particular application but does not own any of the     database objects is the __________.
+end user other than application owner
+application owner	
+end user other than application owner
+foreign key	
+administrator
+__________ is the process of performing authorized queries and deducing unauthorized information from     the legitimate responses received.
+Inference
+Perturbation	
+Inference
+Compromise	
+Partitioning
+A ___________ is the portion of the data center that houses data processing equipment.
+computer room	
+computer room
+main distribution area
+entrance room	
+horizontal distribution area
+__________ encompasses intrusion detection, prevention and response.
+Intrusion management
+Intrusion management	
+Security assessments
+Database access control	
+Data loss prevention
+_________ is an organization that produces data to be made available for controlled release, either       within the organization or to external users.
+Data owner
+Client	
+Data owner
+User	
+Server
+__________ is an organization that receives the encrypted data from a data owner and makes them       available for distribution to clients.
+Server
+User	
+Client
+Data owner	
+Server
+__________ specifies the minimum requirements for telecommunications infrastructure of data centers.
+TIA-492
+TIA-492	
+RFC-4949
+NIST-7883	
+RSA-298
+______ relates to the capacity of the network links connecting a server to the wider Internet.
+Network bandwidth
+Application resource	
+Network bandwidth
+System payload	
+Directed broadcast
+A ______ triggers a bug in the system’s network handling software causing it to crash and the system can no longer communicate over the network until this software is reloaded.
+poison packet
+echo	
+reflection
+poison packet	
+flash flood
+Using forged source addresses is known as _________.
+source address spoofing
+source address spoofing	
+a three-way address
+random dropping	
+directed broadcast
+The ______ attacks the ability of a network server to respond to TCP connection requests by overflowing      the tables used to manage such connections.
+SYN spoofing attac
+DNS amplification attack	
+SYN spoofing attack
+basic flooding attack	
+poison packet attack
+TCP uses the _______ to establish a connection.
+three-way handshake
+zombie	
+SYN cookie
+directed broadcast	
+three-way handshake
+_______ bandwidth attacks attempt to take advantage of the disproportionally large resource     consumption at a server.
+Application-based
+Application-based	
+System-based
+Random	
+Amplification
+7.	_______ is a text-based protocol with a syntax similar to that of HTTP.
+A.	RIP	B.  DIP
+	C.  SIP	D.  HIP
+8.	Bots starting from a given HTTP link and then following all links on the provided Web site in a      recursive way is called _______.
+A.	trailing	B.  spidering
+	C.  spoofing	D.  crowding
+9.	______ attempts to monopolize all of the available request handling threads on the Web server by     sending HTTP requests that never complete.
+A.	HTTP	B.  Reflection attacks
+	C.  SYN flooding	D.  Slowloris
+10.	A characteristic of reflection attacks is the lack of _______ traffic.
+A.	backscatter	B.  network
+	C.  three-way	D.  botnet
+11.	In both direct flooding attacks and ______ the use of spoofed source addresses results in response        packets being scattered across the Internet and thus detectable.
+A.	SYN spoofing attacks	B.  indirect flooding attacks
+
+
+
+
+
+	
+
